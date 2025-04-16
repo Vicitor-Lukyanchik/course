@@ -1,0 +1,6 @@
+1) Среда разработки intelij idea
+2) Server Tomcat 9
+3) jdk 11
+4) MySql database
+5) Верстка на html, css, js
+6) 
