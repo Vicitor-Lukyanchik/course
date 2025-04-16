@@ -1,0 +1,13 @@
+auto_update_data=on
+partial_renewal=week
+
+//Настройки:
+//auto_update_data
+//on | off
+//partial_renewal:
+//Месяц=month
+//Неделя=week
+//День=day
+//Час=hour
+//Минута=minute
+//Если время конкретное, пишите числом в милисекундах(1 секунда = 1000 мсек)
